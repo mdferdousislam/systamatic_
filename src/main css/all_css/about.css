@@ -1,0 +1,69 @@
+#about_part{
+    background: #f2f2f2;
+    padding: 52px 0;
+}
+#about_part h3{
+    color: #333333;
+    font-size: 26px;
+    padding-bottom: 50px;
+}
+.cart_part img {
+    width: 348px;
+    height: 160px;
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.cart_part p{
+    text-align: justify;
+    font-size: 13px;
+    color: #878787;
+    line-height: 23px;
+}
+.cart_part a{
+    float: right;
+    font-size: 13px;
+    color: #b92d1f;
+}
+.cart_part a:hover{
+    text-decoration: none;
+    color: #ee802f;
+}
+
+
+.service-text h4{
+    font-size: 14px;
+    color: #878787;
+    font-weight: bold;
+}
+.service-text p{
+    font-size: 13px;
+    color:#878787 ;
+}
+.view{
+    float: right;
+    font-size: 13px;
+    color: #b92d1f;
+}
+.view:hover{
+    text-decoration: none;
+    color: #ee802f;
+}
+.tommy_wrraper h4{
+    font-size: 16px;
+    color: #989898;
+    font-weight: bold;
+}
+.tommy_wrraper p{
+    color:#888888;
+    font-size: 13px;
+}
+.tommy_wrraper a{
+    float: right;
+    font-size: 13px;
+    color: #b92d1f;  
+}
+.tommy_wrraper a:hover{
+    text-decoration: none;
+    color: #ee802f;
+}

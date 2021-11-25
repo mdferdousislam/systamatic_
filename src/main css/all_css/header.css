@@ -1,0 +1,114 @@
+/* headeer 1 csss---------------------------------------start */
+#header_top {
+    background-color: #ba2e1f;
+    padding: 20px 20px;
+}
+#header_top .header_1_left ul {
+    display: flex;
+    margin-bottom: 0;;
+}
+#header_top .header_1_left ul li {
+    margin-right: 8px;
+}
+#header_top .header_1_left ul li a {
+    border-right: 1px solid #fff;
+    color: #fff;
+    padding-right: 8px;
+    font-size: 12px;
+    font-weight: 400;
+}
+#header_top .header_1_right{
+    float: right;
+}
+#header_top .header_1_right input {
+    border: none;
+    border-radius: 15px;
+    padding-right: 21px;
+    padding-left: 10px;
+}
+
+#header_top .header_1_right img{
+    position: absolute;
+    right: 18px;
+    top: 3px;
+}
+/* boredr--1-------------------------------end */
+
+/* boredr--2-------------------------------start */
+#header_center{
+padding: 40px 0px;
+}
+#header_center .header_center_left {
+    
+}
+#header_center .header_center_left h2 {
+    font-size: 36px;;
+    font-weight: bold;
+    margin-bottom: 0;;
+}
+#header_center .header_center_left h2 span{
+    font-size: 46px;
+}
+#header_center .header_center_left  p{
+    font-size:12px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+#header_center .header_center_right {
+    float: right;
+}
+#header_center .header_center_right ul{
+    display: flex;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+#header_center .header_center_right ul li{
+    margin-right: 10px;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+    background-color: #333333;
+    border-radius: 50%;
+    transition: all 0.5s ease;
+}
+#header_center .header_center_right ul li:hover{
+    background-color: #ee802f;
+}
+#header_center .header_center_right ul li a {
+    color: #fff;
+    font-size: 12px;
+}
+/* herader2 -----------------end */
+
+/* header buttom------------------start */
+#header_buttom{
+  
+    
+}
+.header_manu{
+
+}
+.header_manu ul{
+    margin-bottom: 0;
+    text-align: center;
+    padding: 15px 0;
+    background: linear-gradient(#4c4a4a,#121010);
+    border-radius: 5px;
+}
+.header_manu ul li{
+    margin-right: 25px;
+    display: inline-block;
+}
+.header_manu ul li a{
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: all 0.5s ease;
+}
+.header_manu ul li a:hover{
+    color: #ba2e1f;
+    text-decoration: none;
+}
+/* header buttom end----------------- */

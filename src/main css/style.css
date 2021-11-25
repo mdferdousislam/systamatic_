@@ -1,0 +1,18 @@
+/* header css */
+@import'all_css/header.css';
+
+/* banner css */
+@import'all_css/banner.css';
+
+/* about css */
+@import'all_css/about.css';
+
+
+/* footer css */
+@import'all_css/footer.css';
+
+/* common css */
+@import'all_css/common.css';
+
+/* responsive css */
+@import'responsive/responsive.css';

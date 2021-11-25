@@ -1,0 +1,194 @@
+/* ==================================================================================== */
+@media (max-width: 575.98px) {
+    #header_top .header_1_left ul li a {
+        padding-right: 4px;
+        font-size: 11px;
+    }
+
+   
+    .banner_text h1 {
+        font-size: 40px;
+     
+    }
+    .header_top .header_1_left ul li {
+        margin-right: 4px;
+    }
+    #header_center .header_center_left h2 {
+        font-size: 30px;
+    }
+    #header_center .header_center_left h2 span {
+        font-size: 40px;
+    }
+    .banner_img {
+        overflow: hidden;
+    }
+    .cart_part img {
+        width: 324px;
+    }
+    .service_img {
+        margin-bottom: 10px;
+    }
+    .footer_text_left p {
+        font-size: 11px;
+    }
+    .footer_text_right p {
+        margin-right: 87px;
+    }
+    #about_part h3 {;
+        padding-top: 23px;
+    }
+    .banner_text p {
+        font-size: 13px;
+    }
+    .banner_img img {
+        width: 317px;
+        height: 379px;
+    }
+    .banner_text a {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .banner_text {
+        margin-top: 40px;
+    }
+    #header_top .header_1_left ul li a {
+        padding-right: 3px;
+    }
+    #header_top .header_1_left ul li {
+        display: inline-block;
+    }
+    #header_top .header_1_left ul {
+        display: unset;
+    }
+    .header_1_left {
+        text-align: center;
+    }
+
+}
+
+
+
+/* ==================================================================================== */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #header_top .header_1_left ul li a {
+        padding-right: 4px;
+        font-size: 11px;
+    }
+    #header_top .header_1_left ul li {
+        margin-right: 4px;
+    }
+    #header_center .header_center_left h2 {
+        font-size: 30px;
+    }
+    #header_center .header_center_left h2 span {
+        font-size: 40px;
+    }
+    .banner_img {
+        overflow: hidden;
+    }
+    .banner_text h1 {
+        font-size: 59px;
+    }
+    .banner_text p {
+        font-size: 13px;
+    }
+    .banner_text a {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .banner_text {
+        margin-top: 40px;
+    }
+    #header_top .header_1_left ul li a {
+        padding-right: 3px;
+    }
+    #header_top .header_1_left ul li a {
+        font-size: 11px;
+    }
+ }
+
+
+/* ==================================================================================== */
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .banner_img {
+        overflow: hidden;
+    }
+    .banner_img img {
+        width: 272px;
+        height: 400px;
+    }
+    .banner_text h1 {
+        font-size: 45px;
+    }
+    .banner_text p {
+        color: #666666;
+    }
+    .banner_text a {
+        font-size: 13px;
+    }
+    #about_part h3 {
+        font-size: 18px;
+    }
+    .cart_part {
+        overflow: hidden;
+    }
+    .cart_part img {
+        width: 219px;
+        height: 133px;
+    }
+    .service_img img {
+        width: 50px;
+        height: 50px;
+    }
+    .service-text p {
+        font-size: 12px;
+    }
+    .tommy_wrraper h4 {
+        font-size: 12px;
+    }
+    .view {
+        font-size: 10px;
+    }
+    .tommy_wrraper a {
+        font-size: 10px;;
+    }
+    .cart_part p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .cart_part a {
+        font-size: 11px;
+    }
+    .footer_part1_text p {
+        padding-right: 33px;
+    }
+    .footer_text_left p {
+        font-size: 11px;
+    }
+}
+
+
+/* ==================================================================================== */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .header_manu ul li {
+        margin-right: 10px;
+    }
+    .banner_text h1 {
+        font-size: 71px;
+    }
+    #about_part h3 {
+        color: #333333;
+        font-size: 25px;
+    }
+    .cart_part {
+        overflow: hidden;
+    }
+}
+
+
+
+/* ==================================================================================== */
+@media (min-width: 1200px) { ... }
